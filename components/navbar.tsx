@@ -39,11 +39,11 @@ export function Navbar() {
             </a>
             <a href="mailto:info@anoasistourism.ae" className="flex items-center gap-2 hover:opacity-80 transition-opacity">
               <Mail className="h-4 w-4" />
-              <span>info@anoasistourism.ae</span>
+              <span>info@alnasirtravel.com</span>
             </a>
           </div>
           <div className="flex items-center gap-4">
-            <span>Welcome to AN Oasis Tourism - Your Gateway to UAE</span>
+            <span>Welcome to Alnasir Travel & Tours - Your Gateway to UAE</span>
           </div>
         </div>
       </div>
@@ -81,8 +81,8 @@ export function Navbar() {
                 "flex flex-col",
                 isScrolled ? "text-foreground" : "text-primary-foreground"
               )}>
-                <span className="font-serif text-xl font-semibold tracking-wide">AN Oasis</span>
-                <span className="text-xs tracking-widest uppercase opacity-80">Tourism</span>
+                <span className="font-serif text-xl font-semibold tracking-wide">ALNASIR</span>
+                <span className="text-xs tracking-widest uppercase opacity-80">Travel & Tours</span>
               </div>
             </Link>
 

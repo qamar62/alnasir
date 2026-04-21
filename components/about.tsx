@@ -54,7 +54,7 @@ export function About() {
           {/* Content Side */}
           <div>
             <span className="inline-block text-primary font-semibold text-sm tracking-wider uppercase mb-3">
-              About AN Oasis Tourism
+              About Alnasir Travel & Tours
             </span>
             <h2 className="font-serif text-3xl md:text-5xl font-bold text-foreground mb-6 text-balance">
               Your Trusted Partner in UAE Adventures

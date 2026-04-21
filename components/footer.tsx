@@ -47,8 +47,8 @@ export function Footer() {
                 AN
               </div>
               <div className="flex flex-col">
-                <span className="font-serif text-xl font-semibold text-primary-foreground">AN Oasis</span>
-                <span className="text-xs tracking-widest uppercase text-primary-foreground/60">Tourism</span>
+                <span className="font-serif text-xl font-semibold text-primary-foreground">ALNASIR</span>
+                <span className="text-xs tracking-widest uppercase text-primary-foreground/60">Travel & Tours</span>
               </div>
             </Link>
             <p className="text-primary-foreground/70 mb-6 leading-relaxed">
