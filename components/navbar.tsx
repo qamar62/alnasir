@@ -35,7 +35,7 @@ export function Navbar() {
           <div className="flex items-center gap-6">
             <a href="tel:+971501234567" className="flex items-center gap-2 hover:opacity-80 transition-opacity">
               <Phone className="h-4 w-4" />
-              <span>+971 50 123 4567</span>
+              <span>+966 50 255 0853</span>
             </a>
             <a href="mailto:info@anoasistourism.ae" className="flex items-center gap-2 hover:opacity-80 transition-opacity">
               <Mail className="h-4 w-4" />

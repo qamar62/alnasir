@@ -46,7 +46,7 @@ export function CTA() {
               variant="outline"
               className="border-primary-foreground/30 text-primary-foreground hover:bg-primary-foreground/10 font-semibold px-8 py-6 text-lg"
             >
-              Call Us: +971 50 123 4567
+              Call Us: +966 50 255 0853
             </Button>
           </div>
 

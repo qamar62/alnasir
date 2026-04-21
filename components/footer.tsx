@@ -117,13 +117,13 @@ export function Footer() {
               <li className="flex items-center gap-3">
                 <Phone className="h-5 w-5 text-primary flex-shrink-0" />
                 <a href="tel:+971501234567" className="text-primary-foreground/70 hover:text-primary transition-colors">
-                  +971 50 123 4567
+                  +966 50 255 0853
                 </a>
               </li>
               <li className="flex items-center gap-3">
                 <Mail className="h-5 w-5 text-primary flex-shrink-0" />
                 <a href="mailto:info@anoasistourism.ae" className="text-primary-foreground/70 hover:text-primary transition-colors">
-                  info@anoasistourism.ae
+                  info@alnasirtravel.com
                 </a>
               </li>
             </ul>
