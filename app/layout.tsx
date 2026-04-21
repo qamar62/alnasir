@@ -14,10 +14,10 @@ const playfair = Playfair_Display({
 });
 
 export const metadata: Metadata = {
-  title: 'AN Oasis Tourism | Premium UAE Travel & Tourism Experiences',
-  description: 'Discover the magic of UAE with AN Oasis Tourism. Luxury desert safaris, city tours, yacht cruises, and unforgettable adventures across Dubai, Abu Dhabi, and beyond.',
-  keywords: 'UAE tourism, Dubai tours, Abu Dhabi travel, desert safari, luxury travel, UAE holidays, AN Oasis Tourism',
-  generator: 'v0.app',
+  title: 'Alnasir Travel & Tours | Premium UAE Travel & Tourism Experiences',
+  description: 'Discover the magic of UAE with Alnasir Travel & Tours. Luxury desert safaris, city tours, yacht cruises, and unforgettable adventures across Dubai, Abu Dhabi, and beyond.',
+  keywords: 'UAE tourism, Dubai tours, Abu Dhabi travel, desert safari, luxury travel, UAE holidays, Alnasir Travel & Tours',
+  generator: 'QAM',
   icons: {
     icon: [
       {
